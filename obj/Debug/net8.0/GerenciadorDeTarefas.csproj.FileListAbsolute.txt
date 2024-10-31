@@ -1,0 +1,14 @@
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/bin/Debug/net8.0/GerenciadorDeTarefas
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/bin/Debug/net8.0/GerenciadorDeTarefas.deps.json
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/bin/Debug/net8.0/GerenciadorDeTarefas.runtimeconfig.json
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/bin/Debug/net8.0/GerenciadorDeTarefas.dll
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/bin/Debug/net8.0/GerenciadorDeTarefas.pdb
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.AssemblyInfoInputs.cache
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.AssemblyInfo.cs
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.dll
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/refint/GerenciadorDeTarefas.dll
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.pdb
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/GerenciadorDeTarefas.genruntimeconfig.cache
+/Users/thiago/Projects/Default/GerenciadorDeTarefas/obj/Debug/net8.0/ref/GerenciadorDeTarefas.dll
